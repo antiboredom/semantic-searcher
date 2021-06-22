@@ -1,4 +1,4 @@
-# Semantic Text Search
+# Semantic Text Searcher
 
 A simple utility for doing semantic text search on the command line. Give it a text file and a query, and it will return the sentences from the text file that are most similar to your query sentence.
 
